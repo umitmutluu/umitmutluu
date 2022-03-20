@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ümit</h1>
-<h3 align="center">I've been developing Flutter projects since 2019, I've been using native plugins that I coded myself. Techniques I use: <br></br>--State Management: Getx, BlocCubit, Provider, <br></br>--Agile Methods: Jira, Bitbucket, Asana - Payment Method Systems: Paypal, stripe, Iyzico</h3>
+<h3 align="left">I've been developing Flutter projects since 2019, I've been using native plugins that I coded myself. Techniques I use: <br></br>--State Management: Getx, BlocCubit, Provider, <br></br>--Agile Methods: Jira, Bitbucket, Asana <br></br>--Payment Method Systems: Paypal, stripe, Iyzico</h3>
 - 💬 Ask me about **Dart,Kotlin,Firebase**
 
 <h3 align="left">Connect with me:</h3>
