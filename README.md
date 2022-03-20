@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@umitmutlu](https://medium.com/@umitmutlu)
 
-- 💬 Ask me about **Dart,Kotlin,**
+- 💬 Ask me about **Dart,Kotlin,Firebase**
 
 - 📫 How to reach me **https://www.linkedin.com/in/umitmutluu/**
 
