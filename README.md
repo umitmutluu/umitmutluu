@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ümit</h1>
+<h1 align="left">Hi 👋, I'm Ümit</h1>
 <h3 align="center">A passionate Mobile app development from Turkey</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/umitmutluu?tab=repositories](https://github.com/umitmutluu?tab=repositories)
