@@ -1,13 +1,7 @@
 <h1 align="left">Hi 👋, I'm Ümit</h1>
 <h3 align="center">A passionate Mobile app development from Turkey</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/umitmutluu?tab=repositories](https://github.com/umitmutluu?tab=repositories)
-
-- 📝 I regularly write articles on [https://medium.com/@umitmutlu](https://medium.com/@umitmutlu)
-
 - 💬 Ask me about **Dart,Kotlin,Firebase**
-
-- 📫 How to reach me **https://www.linkedin.com/in/umitmutluu/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
